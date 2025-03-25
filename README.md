@@ -1,8 +1,8 @@
 ### Dr. Raimundo Valter
->🚀 Pesquisador Inovador em IA na DragãoLAB;
->📚 Professor de Ciência da Computação;
->🐍 Entusiasta de Python;
->
+> 🚀 Pesquisador Inovador em IA na DragãoLAB;
+> 📚 Professor de Ciência da Computação;
+> 🐍 Entusiasta de Python;
+
 <div>
   <a href="https://github.com/DragaoLab">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaimundoValter&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
