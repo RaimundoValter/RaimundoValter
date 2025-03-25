@@ -1,6 +1,8 @@
 ### Dr. Raimundo Valter
 > 🚀 Pesquisador Inovador em IA na DragãoLAB;
+> 
 > 📚 Professor de Ciência da Computação;
+> 
 > 🐍 Entusiasta de Python;
 
 <div>
